@@ -1,0 +1,26 @@
+ #main {
+    background-color: rgba(0, 0, 0, 0.934); 
+    height: 400px;
+    width: 300px;
+    border-radius: 3%;
+    
+ }
+ #screen {
+    margin: 10px;
+    width: 90%;
+    height: 35px;
+    color:rgb(185, 182, 182);
+    background-color: rgb(82, 106, 82);
+    font-size: 30px;
+ }
+ #buttons button{
+   border: 1px thick;
+   padding: 17px;
+   margin: 5px;
+   font-size: 1.5em;
+   background-color: rgb(56, 56, 56);
+   color: rgb(250, 223, 223);
+ }
+ #buttons{
+   margin-left: 25px;
+ }
